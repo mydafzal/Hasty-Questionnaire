@@ -17,14 +17,14 @@ The Desktop application is built to serve the following areas.
 ### Tool & Techniques
 This project is built on Java, and MySQL shell
 ### Software Requirements
--Operating System	Windows/ MacOS
--Language	Java
--Database	MySQL
--IDE	Netbeans
+- Operating System	Windows/ MacOS
+- Language	Java
+- Database	MySQL
+- IDE	Netbeans
 ### Goals
--Create a Desktop application to be used in place of old paper-based user examination process.
--Generate a questionnaire also if needed to conduct a paper-based examination.
--Use Java and MYSQL Server technology to create strong and secure database connectivity.
--Incorporate the server software within the code.
+- Create a Desktop application to be used in place of old paper-based user examination process.
+- Generate a questionnaire also if needed to conduct a paper-based examination.
+- Use Java and MYSQL Server technology to create strong and secure database connectivity.
+- Incorporate the server software within the code.
 
 
